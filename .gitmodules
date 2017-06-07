@@ -1,0 +1,3 @@
+[submodule "resume_html"]
+	path = resume_html
+	url = https://github.com/jrobusto/resume_html
